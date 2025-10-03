@@ -1,5 +1,55 @@
+/*A*/
+article
+{
+    text-align: center;
+}
+/*B*/
+/*C*/
+/*D*/
+/*E*/
+/*F*/
+footer
+{
+    text-align: center;
+}
+/*G*/
+/*H*/
 h1
 {
     color: purple;
     text-align: center;
 }
+/*I*/
+.img-div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*J*/
+/*K*/
+.Keyboard-list-items
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+/*L*/
+/*M*/
+/*N*/
+/*O*/
+/*P*/
+/*Q*/
+/*R*/
+/*S*/
+.switches-img
+{
+    width: 500px;
+}
+/*T*/
+/*U*/
+/*V*/
+/*W*/
+/*X*/
+/*Y*/
+/*Z*/
