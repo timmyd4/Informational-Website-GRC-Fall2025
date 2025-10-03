@@ -4,6 +4,10 @@ article
     text-align: center;
 }
 /*B*/
+body
+{
+    font-size: 1.1rem;
+}
 /*C*/
 /*D*/
 /*E*/
@@ -39,6 +43,10 @@ h1
 /*N*/
 /*O*/
 /*P*/
+.page-text
+{
+    font-size: 1.3rem;
+}
 /*Q*/
 /*R*/
 /*S*/
