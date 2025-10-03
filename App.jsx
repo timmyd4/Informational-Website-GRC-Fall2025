@@ -1,6 +1,6 @@
 import Header from "./Header.jsx";
 import Main from "./Main.jsx";
-import Footer from "./Footer.jsx";
+import Footer from "./Footer-page.jsx";
 export default function App()
 {
     return(<div>
