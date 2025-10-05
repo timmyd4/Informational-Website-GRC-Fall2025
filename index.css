@@ -9,8 +9,23 @@ body
     font-size: 1.1rem;
 }
 /*C*/
+.container
+{
+    border: 2px, solid, black;
+    padding: 10px;
+    margin: 10px 0;
+    display: inline-block;
+    width: 70%;
+    height:400px;
+}
 /*D*/
 /*E*/
+.ensured-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5px;
+    justify-items: stretch;
+}
 /*F*/
 footer
 {
@@ -27,8 +42,27 @@ h1
 .img-div
 {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.img-props
+{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    height: auto;
+}
+
+.img-center
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-width: 840px;
+    margin: 0 auto;
 }
 /*J*/
 /*K*/
@@ -40,12 +74,25 @@ h1
 }
 /*L*/
 /*M*/
+.main-text
+{
+    text-align: center;
+}
 /*N*/
 /*O*/
 /*P*/
 .page-text
 {
     font-size: 1.3rem;
+}
+
+.parent-container
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    
 }
 /*Q*/
 /*R*/

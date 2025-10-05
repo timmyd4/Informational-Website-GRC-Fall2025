@@ -1,4 +1,4 @@
-import switches from "./src/assets/Switches.png";
+import switches from "./../src/assets/Switches.png";
 export default function App()
 {
     return(<div>
